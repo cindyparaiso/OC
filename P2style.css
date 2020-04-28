@@ -111,7 +111,7 @@ img
 {
 	width:	346px;
 	height: 1
-	background-color:rgb(255,215,0);
+	background-color: rgb(255,215,0);
 }
 
 .Contact i
@@ -220,11 +220,3 @@ img
 	justify-content: space-between;
 }
  
-@media all and (max-width: 1024px)
-{
-	p
-	{
-		width: auto;
-	}
-}	
-		
