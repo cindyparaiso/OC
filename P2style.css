@@ -31,7 +31,7 @@ p, li
 
 ul
 {
-	list-style-image: 
+	list-style-image: none;
 }
 
 header
@@ -60,7 +60,7 @@ h3
 {
 	text-align: left;
 	color: rgb(255,210,0);
-	font-size: 3em;
+	font-size: 3.1em;
 }
 
 .Paraiso
@@ -96,7 +96,6 @@ hr
 	border: none;
 	border-bottom: 2px solid #feca07;
 	width: 132%
-		
 }
 
 img 
@@ -111,6 +110,7 @@ img
 .Contact
 {
 	width:	346px;
+	height: 1
 	background-color:rgb(255,215,0);
 }
 
@@ -139,12 +139,18 @@ img
 	margin-top: 132px;
 }
 
-.Curriculum i
+.Curriculum h2 i
  { 
  	color: rgb(255,215,0); 
  	font-size: 43px;
  } 
 
+.ul i
+{
+	font-size: 0.02px;
+	color: yellow;
+}	
+	
 .Curriculum
 {
 	position: absolute;
@@ -214,3 +220,11 @@ img
 	justify-content: space-between;
 }
  
+@media all and (max-width: 1024px)
+{
+	p
+	{
+		width: auto;
+	}
+}	
+		
