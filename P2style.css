@@ -111,7 +111,7 @@ img
 {
 	width:	346px;
 	height: 1
-	background: rgb(255,215,0);
+	background-color: rgb(255,215,0);
 }
 
 .Contact i
@@ -192,6 +192,7 @@ img
 	left: 270px;
 	bottom: 59px;
 }
+
 .descript2
 {
 	position : relative;
