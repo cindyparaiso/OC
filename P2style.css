@@ -52,14 +52,14 @@ h3
 .Contact h2
 {
 	background-color: #404040;
-	color: rgb(255,210,0);
+	color: #FECA07;
 	text-align: center;
 }
 
 .Cindy
 {
 	text-align: left;
-	color: rgb(255,210,0);
+	color: #FECA07;
 	font-size: 3.1em;
 }
 
@@ -81,7 +81,7 @@ h3 span
 {
 	text-decoration: underline;
 	text-underline-position: under;
-	text-decoration-color: rgb(255,215,0);
+	text-decoration-color: #FECA07;
 }
 
 .Curriculum h2
@@ -110,7 +110,7 @@ img
 .Contact
 {
 	width:	346px;
-	background-color: rgb(255,215,0);
+	background-color: #FECA07;
 }
 
 .Contact i
@@ -140,14 +140,14 @@ img
 
 .Curriculum h2 i
  { 
- 	color: rgb(255,215,0); 
+ 	color: #FECA07; 
  	font-size: 43px;
  } 
 
 .ul i
 {
 	font-size: 0.02px;
-	color: yellow;
+	color: #FECA07;
 }	
 	
 .Curriculum
