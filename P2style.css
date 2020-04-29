@@ -224,9 +224,7 @@ media all and (max-device-width: 480px)
  {
  	body
 	{
-	display: flex;
-	flex-direction: column;
+	display: none;
 	background-color: white;
-	width:	device-width;
 	}
  } 
