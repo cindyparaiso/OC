@@ -220,3 +220,13 @@ img
 	justify-content: space-between;
 }
  
+media all and (max-device-width: 480px)
+ {
+ 	body
+	{
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	width:	device-width;
+	}
+ } 
