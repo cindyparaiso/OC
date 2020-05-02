@@ -29,11 +29,6 @@ p, li
 	font-weight: lighter;
 }
 
-ul
-{
-	list-style-image: none;
-}
-
 header
 {
 	display: flex;
@@ -95,21 +90,21 @@ hr
 {
 	border: none;
 	border-bottom: 2px solid #feca07;
-	width: 132%
+	width: 95%
 }
 
 img 
 {  
   margin: 43px 63px 32px 93px;
   width: 47%; 
-  height: 13%;
-  border-radius: 100%;
+  height: auto;
+  border-radius: 50%;
   border: solid #dfb312 2px;
 }  
 
 .Contact
 {
-	width:	346px;
+	width:	29%;
 	background-color: #FECA07;
 }
 
@@ -130,7 +125,7 @@ img
 
 .apropos p
 {
-	margin right: 103px;
+	text-align: left;
 }
 
 .loisirs
@@ -152,54 +147,29 @@ img
 	
 .Curriculum
 {
-	position: absolute;
-	background-color: white;
-	margin-left: 393px;
+	width: 63%;
+	margin-left: 5%;
 }
 
-.formation
+li
 {
-	display: inline-block;
-	position: relative;
-	left: 32px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
-.format1
+.latest
 {
-	position: relative;
-	left: 270px;
-	bottom: 61px;
+	list-style-image: i class="far fa-dit-circle";
+	width: 60%;
 }
 
-.format2
+.format
 {
-	position: relative;
-	left: 270px;
-	bottom: 61px;
+	width: 60%;
 }
 
 .experience
-{
-	display: inline-block;
-	position: relative;
-	left: 32px;
-}
-
-.descript1
-{
-	position: relative;
-	left: 270px;
-	bottom: 59px;
-}
-
-.descript2
-{
-	position : relative;
-	left: 270px;
-	bottom: 59px;
-}
-
-.references
 {
 	display: inline-block;
 	position: relative;
