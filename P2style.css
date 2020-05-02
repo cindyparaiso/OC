@@ -125,11 +125,6 @@ img
 	text-align: left;
 }
 
-.loisirs
-{
-	margin-top: 132px;
-}
-
 .Curriculum h2 i
  { 
  	color: #FECA07; 
@@ -166,7 +161,21 @@ li
 	width: 60%;
 }
 
+.formation
+{
+	display: inline-block;
+	position: relative;
+	left: 32px;
+}
+
 .experience
+{
+	display: inline-block;
+	position: relative;
+	left: 32px;
+}
+
+.recommandations
 {
 	display: inline-block;
 	position: relative;
