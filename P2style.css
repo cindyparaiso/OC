@@ -55,14 +55,12 @@ h3
 {
 	text-align: left;
 	color: #FECA07;
-	font-size: 3.1em;
 }
 
 .Paraiso
 {
 	position: relative;
 	margin-left: 27px;
-	font-size: 3.2em;
 }
 
 .Cindyparaiso
@@ -70,6 +68,7 @@ h3
 	display: flex;
 	flex-direction: row;
 	font-weight: lighter;
+	font-size: 3.2em;
 }
 
 h3 span
@@ -90,7 +89,7 @@ hr
 {
 	border: none;
 	border-bottom: 2px solid #feca07;
-	width: 95%
+	width: 97%
 }
 
 img 
@@ -112,10 +111,8 @@ img
 {
 	color: #404040;
 	font-size: 40px;
-	display: inline-block;
 	border-radius: 50px;
 	border: 2px solid #404040;
-  	padding: 0.5em 0.6em;
  }
 
 .Contact p
