@@ -107,7 +107,7 @@ img
 	background-color: #FECA07;
 }
 
-.Contact i
+.Contact footer i
 {
 	color: #404040;
 	font-size: 40px;
@@ -124,6 +124,12 @@ img
 {
 	text-align: left;
 }
+
+.loisirs
+{
+	margin-top: 123px;
+}	
+	
 
 .Curriculum h2 i
  { 
