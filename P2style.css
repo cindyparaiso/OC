@@ -189,5 +189,10 @@ media all and (max-device-width: 480px)
 	 {
 		 display: flex;
 		 flex-direction: column;
-	 }	 
+	 }	
+	 .Contact
+	 {
+		 display: flex;
+		 flex-direction: row;
+	 } 
  } 
