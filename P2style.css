@@ -123,7 +123,7 @@ img
 .apropos p
 {
 	text-align: justify;
-	padding: 9%;
+	padding: 5%;
 }
 
 .loisirs
@@ -182,20 +182,3 @@ li
 	flex-direction: row;
 	justify-content: space-between;
 }
-
-media all and (max-device-width: 480px)
- {
-	 .Cindyparaiso
-	 {
-		 font-size: em;
-	 }	
-	 body
-	 {
-		 display: block;
-	 }	 
-	.Contact
-	 {
-		 display: inline-block;
-		 flex-direction: row;
-	 } 
- } 
