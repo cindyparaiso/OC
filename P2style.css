@@ -122,7 +122,8 @@ img
 
 .apropos p
 {
-	text-align: left;
+	text-align: justify;
+	padding: 9%;
 }
 
 .loisirs
@@ -167,21 +168,7 @@ li
 	width: 60%;
 }
 
-.formation
-{
-	display: inline-block;
-	position: relative;
-	left: 32px;
-}
-
-.experience
-{
-	display: inline-block;
-	position: relative;
-	left: 32px;
-}
-
-.recommandations
+.formation, .experience, .recommandations
 {
 	display: inline-block;
 	position: relative;
@@ -201,7 +188,18 @@ li
 	flex-direction: row;
 	justify-content: space-between;
 }
+
+.far
+{
+	color: #FECA07;
+}	
  
+.fas
+{
+	font-size: 9px;
+	color:	#FECA07;
+}
+
 media all and (max-device-width: 480px)
  {
  } 
