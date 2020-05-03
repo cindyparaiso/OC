@@ -187,16 +187,15 @@ media all and (max-device-width: 480px)
  {
 	 .Cindyparaiso
 	 {
-		 font-size: 2em;
+		 font-size: em;
 	 }	
 	 body
 	 {
-		 display: flex;
-		 flex-flow: column wrap;
+		 display: block;
 	 }	 
-	 .Contact
+	.Contact
 	 {
-		 wdisplay: flex;
+		 display: inline-block;
 		 flex-direction: row;
 	 } 
  } 
