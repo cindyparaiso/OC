@@ -185,14 +185,18 @@ li
 
 media all and (max-device-width: 480px)
  {
+	 .Cindyparaiso
+	 {
+		 font-size: 2em;
+	 }	
 	 body
 	 {
 		 display: flex;
-		 flex-direction: column;
-	 }	
+		 flex-flow: column wrap;
+	 }	 
 	 .Contact
 	 {
-		 display: flex;
+		 wdisplay: flex;
 		 flex-direction: row;
 	 } 
  } 
