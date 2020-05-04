@@ -111,8 +111,6 @@ img
 {
 	color: #404040;
 	font-size: 29px;
-	border-radius: 20px;
-	margin:2px
 	border: 2px solid #404040;
  }
 
@@ -136,7 +134,7 @@ img
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
- 	font-size: 43px;
+ 	font-size: 34px;
  } 
 
 .Curriculum
@@ -167,6 +165,11 @@ li svg
 {
 	color: #FECA07;
 }
+
+.latest svg
+{
+	font-size: 4px
+}	
 
 .formation, .experience, .recommandations
 {
