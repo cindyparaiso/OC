@@ -16,7 +16,6 @@ body
 	flex-flow: row wrap;
 	font-family: "nimbus_sans_lregular";
 	margin: 8px;
-	width: 100%;
 	border-left: 1px solid silver; 
 	border-right: 1px solid silver;
 	border-top: 1px solid silver;
@@ -50,7 +49,7 @@ h3
 	background-color: #404040;
 	color: #FECA07;
 	text-align: center;
-	font-size: 3.1em;
+	font-size: 25px;
 }
 
 .Cindy
@@ -82,7 +81,7 @@ h3 span
 .Curriculum h2
 {
 	text-align: left;
-	font-size: 23px; 
+	font-size: 25px; 
 }	
 
 hr
@@ -109,6 +108,7 @@ img
 
 .loisirs svg
 {
+	display: block;
 	color: #404040;
 	font-size: 38px;
 	font-weight: lighter;
@@ -174,6 +174,11 @@ li svg
 .latest svg
 {
 	font-size: 4px
+}	
+
+.format svg
+{
+	font-size:2.5px;
 }	
 
 .formation, .experience, .recommandations
