@@ -107,12 +107,12 @@ img
 	background-color: #FECA07;
 }
 
-.loisirs svg.fa-globe-europe
+.loisirs i
 {
 	color: #404040;
 	font-size: 40px;
 	border-radius: 50px;
-	border: 2px solid #404040;
+	border: 2px solid black;
  }
 
 .Contact p
