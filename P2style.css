@@ -110,9 +110,10 @@ img
 .loisirs svg
 {
 	color: #404040;
-	font-size: 40px;
+	font-size: 45px;
+	font-weight: lighter;
 	margin: auto;
-	padding: 4px;
+	padding: 11px;
 	border-radius: 100%;
 	border: 2px solid #404040;
  }
