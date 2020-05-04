@@ -95,7 +95,7 @@ hr
 img 
 {  
   margin: 43px 63px 32px 93px;
-  width: 32%; 
+  width: 36%; 
   height: auto;
   border-radius: 50%;
   border: solid #dfb312 2px;
@@ -110,9 +110,9 @@ img
 .loisirs svg
 {
 	color: #404040;
-	font-size: 34px;
+	font-size: 36px;
 	margin: auto;
-	padding: 20px;
+	padding: 7px;
 	border-radius: 50px;
 	border: 2px solid #404040;
  }
