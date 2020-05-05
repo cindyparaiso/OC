@@ -94,9 +94,11 @@ hr
 
 img 
 {  
-  margin: 32px 63px 32px 33px;
-  width: 38%; 
+  margin-left: 95px;
+  margin-top: 45px;
+  width: 180px; 
   height: auto;
+  margin: auto;	
   border-radius: 50%;
   border: solid #dfb312 2px;
 }  
