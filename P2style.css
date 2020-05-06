@@ -225,10 +225,24 @@ li svg
 
 	.Cindyparaiso
 	{
-		font-size: 2.7em;
+		font-size: 2.4em;
 		display: flex;
-		flex-direction: row;
+		flex-direction: column;
+		flex-wrap: wrap;
 		margin: 0;
+	}
+	
+	body
+	{
+		P
+		{
+			width: 97%;
+		}
+	}
+	
+	hr
+	{
+		width: 94%;
 	}
 	
 	.Curriculum
