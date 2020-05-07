@@ -94,9 +94,11 @@ hr
 
 img 
 {  
-  width: 300px; 
+  width: 180px; 
   height: auto;
   margin: auto;	
+  margin-left: 95px;
+  margin-top: 45px;	
   border-radius: 50%;
   border: solid #dfb312 2px;
 }  
@@ -120,8 +122,13 @@ img
 
 .Contact p
 {
-	margin-left: 32px;
+	margin-left: 20px;
 }
+
+.Coordonnées p
+{
+	font-weight: bold;
+}	
 
 .apropos p
 {
@@ -182,7 +189,7 @@ li svg
 
 .format svg
 {
-	font-size:1.8px;
+	font-size: 0.7px;
 }	
 
 .formation, .experience, .recommandations
