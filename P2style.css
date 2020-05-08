@@ -116,7 +116,7 @@ img
 .loisirs svg
 {
 	color: #404040;
-	font-size: 38px;
+	font-size: 18px;
 	font-weight: lighter;
 	margin: 9px;
 	padding: 13px;
@@ -127,6 +127,7 @@ img
 .Contact p
 {
 	margin-left: 20px;
+	
 }
 
 .Coordonnées p
@@ -142,12 +143,12 @@ img
 
 .loisirs
 {
-	margin-bottom: 22px;
+	margin-bottom: 9px;
 }
 
-.footer
+.footer 
 {
-	width: 22%;
+	width: 27%;
 }	
 	
 .Curriculum h2 svg
