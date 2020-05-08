@@ -20,7 +20,10 @@ body
 	border-right: 1px solid silver;
 	border-top: 1px solid silver;
 	border-bottom: 1px solid silver;  
+	margin: 0;
+	padding: 0;
 }		
+
 
 p, li
 {
@@ -34,14 +37,15 @@ header
 	display: flex;
 	flex-direction: column;
 	align-items: flex-start;
-	margin-top: 23px;
-	margin-left: 103px;
+	text-align: right;
 }
 
 h3
 {
 	font-size: 1.8em;
 	color: #404040;
+	margin: 0;
+	
 }
 
 .Contact h2
@@ -156,7 +160,6 @@ img
 .Curriculum
 {
 	width: 61%;
-	margin-left: 3%;
 }
 
 li
@@ -188,7 +191,7 @@ li svg
 
 .format svg
 {
-	font-size: 0.7px;
+	font-size: 0.4em;
 }	
 
 .formation, .experience, .recommandations
