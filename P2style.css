@@ -136,9 +136,8 @@ img
 
 .apropos p
 {
-	width: 20%;
 	text-align: justify;
-	padding: 4%;
+	margin: 4%;
 }
 
 .loisirs
@@ -162,6 +161,11 @@ img
 	width: 61%;
 	margin: 4%;
 	margin
+}
+
+ul
+{
+	padding-left: 0;
 }
 
 li
