@@ -21,7 +21,6 @@ body
 	border-top: 1px solid silver;
 	border-bottom: 1px solid silver;  
 	margin: 0;
-	padding: 0;
 }		
 
 
@@ -160,6 +159,7 @@ img
 .Curriculum
 {
 	width: 61%;
+	padding: 4%;
 }
 
 li
