@@ -111,12 +111,13 @@ img
 {
 	width:	29%;
 	background-color: #FECA07;
+	margin: 0;
 }
 
 .loisirs svg
 {
 	color: #404040;
-	font-size: 27px;
+	font-size: 32px;
 	font-weight: lighter;
 	margin: 9px;
 	padding: 13px;
@@ -127,7 +128,7 @@ img
 .Contact p
 {
 	margin-left: 20px;
-	
+
 }
 
 .Coordonnées p
@@ -137,14 +138,14 @@ img
 
 .apropos p
 {
-	width: 70%
+	width: 65%
 	text-align: justify;
 	margin: 4%;
 }
 
 .loisirs
 {
-	margin-bottom: 0;
+	margin-top: 180px;
 }
 
 .footer 
@@ -205,8 +206,7 @@ li svg
 {
 	display: inline-block;
 	position: relative;
-	margin-left: 2%;
-	margin-bottom: 2%;
+	margin-left: 2.5%;
 }
 
 .Contact footer
