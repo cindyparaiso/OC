@@ -116,7 +116,7 @@ img
 .loisirs svg
 {
 	color: #404040;
-	font-size: 18px;
+	font-size: 27px;
 	font-weight: lighter;
 	margin: 9px;
 	padding: 13px;
@@ -137,13 +137,14 @@ img
 
 .apropos p
 {
+	width: 70%
 	text-align: justify;
 	margin: 4%;
 }
 
 .loisirs
 {
-	margin-bottom: 9px;
+	margin-bottom: 0;
 }
 
 .footer 
