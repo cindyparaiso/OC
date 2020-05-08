@@ -136,6 +136,7 @@ img
 
 .apropos p
 {
+	width: 20%;
 	text-align: justify;
 	padding: 4%;
 }
@@ -226,7 +227,8 @@ li svg
  	 	flex-direction: column;
  	 	justify-content: flex-start;
  	 	border-style: none;
-		margin: 0; 
+		margin-left: 0;
+		margin-right: 0; 
  	 }
  	  	
  	.loisirs
@@ -260,7 +262,8 @@ li svg
 	.Curriculum
 	{	
 		width: 100%;
-		margin: 0;
+		margin-left: 0;
+		margin-right: 0;
 	}
 
 	.coordonnées, .apropos, .loisirs 
