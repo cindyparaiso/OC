@@ -205,6 +205,7 @@ li svg
 	display: inline-block;
 	position: relative;
 	margin-left: 2%;
+	margin-bottom: 2%;
 }
 
 .Contact footer
@@ -275,4 +276,9 @@ li svg
 		width: 100%;
 		height: auto;
 	}		
+	
+	.experience, .formation, .recommandations
+	{
+		margin-bottom: 0;
+	}	
 } 
