@@ -134,7 +134,13 @@ img
 .apropos p
 {
 	text-align: justify;
-	padding-bottom: 45%;.
+	padding-bottom: 45%;
+}
+
+.loisirs
+{
+	margin-top: 25%;
+	padding-bottom: 9%;
 }
 
 .footer 
@@ -188,7 +194,7 @@ li svg
 
 .format svg
 {
-	font-size: 0.4em;
+	font-size: 0.1em;
 }	
 
 .formation, .experience, .recommandations
