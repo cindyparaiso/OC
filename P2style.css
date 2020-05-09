@@ -73,7 +73,6 @@ h3
 	font-weight: lighter;
 	font-size: 3.4em;
 	margin-top: 4%;
-	
 }
 
 h3 span
@@ -96,13 +95,13 @@ hr
 	width: 99%
 }
 
+
 img 
 {  
-  	width: 180px; 
-  	height: auto;
-  	margin: auto;	
-  	margin-left: 95px;
-  	margin-top: 45px;	
+  	width: 50%; 
+ 	height: auto;
+  	margin-left: 23%;
+  	margin-top: 11%;
   	border-radius: 50%;
   	border: solid #dfb312 2px;
 }  
@@ -127,25 +126,15 @@ img
 
 .Contact p
 {
-	margin-left: 20px;
+	padding-left: 9%;
+	padding-right: 9%;
 
 }
-
-.Coordonnées p
-{
-	font-style: bold;
-}	
 
 .apropos p
 {
-	width: 65%
 	text-align: justify;
-	margin: 4%;
-}
-
-.loisirs
-{
-	margin-top: 180px;
+	padding-bottom: 25%;.
 }
 
 .footer 
@@ -252,7 +241,7 @@ li svg
 	
 	p
 	{
-		width: 97%;
+		width: 95%;
 	}
 	
 	hr
