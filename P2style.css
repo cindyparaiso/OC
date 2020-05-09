@@ -131,6 +131,12 @@ img
 
 }
 
+.coordonnées p
+{
+	font-size: bold;
+	font-weight: bolder;
+}
+
 .apropos p
 {
 	text-align: justify;
