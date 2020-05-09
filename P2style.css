@@ -238,11 +238,12 @@ li svg
 		margin: 0;
 	}
 	
-	
-	p
+	body
 	{
-		width: 95%;
-	}
+		p
+		{
+			width: 90%;
+		}
 	
 	hr
 	{
@@ -263,8 +264,4 @@ li svg
 		height: auto;
 	}		
 	
-	.experience, .formation, .recommandations
-	{
-		margin-bottom: 0;
-	}	
 } 
