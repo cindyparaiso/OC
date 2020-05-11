@@ -146,7 +146,8 @@ img
 .Curriculum h2
 {
 	text-align: left;
-	font-size: 29px; 
+	font-size: 29px;
+	margin-bottom: 0;
 }	
 
 .Curriculum h2 svg
@@ -251,6 +252,11 @@ li svg
 		margin-left: 0;
 		margin-right: 0;
 	}
+	
+	.Curriculum h2
+	{
+		margin-bottom: auto;
+	}	
 
 	.coordonnées, .apropos, .loisirs 
 	{
