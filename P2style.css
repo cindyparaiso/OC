@@ -39,21 +39,6 @@ header
 	text-align: right;
 }
 
-h3
-{
-	font-size: 1.8em;
-	color: #404040;
-	margin-top: 0;
-}
-
-.Contact h2
-{
-	background-color: #404040;
-	color: #FECA07;
-	text-align: center;
-	font-size: 29px;
-}
-
 .Cindy
 {
 	text-align: left;
@@ -75,6 +60,13 @@ h3
 	margin-top: 4%;
 }
 
+h3
+{
+	font-size: 1.8em;
+	color: #404040;
+	margin-top: 0;
+}
+
 h3 span
 {
 	text-decoration: underline;
@@ -82,11 +74,34 @@ h3 span
 	text-decoration-color: #FECA07;
 }
 
-.Curriculum h2
+.Contact h2
 {
-	text-align: left;
-	font-size: 29px; 
+	background-color: #404040;
+	color: #FECA07;
+	text-align: center;
+	font-size: 29px;
 }	
+
+.Contact
+{
+	width:	29%;
+	background-color: #FECA07;
+	margin: 0;
+}
+
+.Contact p
+{
+	padding-left: 9%;
+	padding-right: 9%;
+}
+
+.Contact footer
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around; 
+	width: 27%;
+}
 
 hr
 {
@@ -94,7 +109,6 @@ hr
 	border-bottom: 2px solid #feca07;
 	width: 99%
 }
-
 
 img 
 {  
@@ -106,11 +120,15 @@ img
   	border: solid #dfb312 2px;
 }  
 
-.Contact
+.coordonnées p
 {
-	width:	29%;
-	background-color: #FECA07;
-	margin: 0;
+	font-weight: bolder;
+}
+
+.apropos p
+{
+	text-align: justify;
+	padding-bottom: 45%;
 }
 
 .loisirs svg
@@ -124,34 +142,17 @@ img
 	border: 2px solid #404040;
  }
 
-.Contact p
-{
-	padding-left: 9%;
-	padding-right: 9%;
-
-}
-
-.coordonnées p
-{
-	font-weight: bolder;
-}
-
-.apropos p
-{
-	text-align: justify;
-	padding-bottom: 45%;
-}
-
 .loisirs
 {
 	padding-bottom: 9%;
 }
 
-.footer 
+.Curriculum h2
 {
-	width: 27%;
+	text-align: left;
+	font-size: 29px; 
 }	
-	
+
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
@@ -176,25 +177,25 @@ li
 	justify-content: space-between;
 }
 
-.latest
-{
-	width: 60%;
-}
-
-.format
-{
-	width: 60%;
-}
-
 li svg
 {
 	color: #FECA07;
+}
+
+.latest
+{
+	width: 60%;
 }
 
 .latest svg
 {
 	font-size: 4px
 }	
+
+.format
+{
+	width: 60%;
+}
 
 .format svg
 {
@@ -207,13 +208,6 @@ li svg
 	position: relative;
 	margin-left: 2.5%;
 	color: black;
-}
-
-.Contact footer
-{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around; 
 }
 
 .recommandation
