@@ -16,10 +16,7 @@ body
 	flex-flow: row wrap;
 	font-family: "nimbus_sans_lregular";
 	margin: 8px;
-	border-left: 1px solid silver; 
-	border-right: 1px solid silver;
-	border-top: 1px solid silver;
-	border-bottom: 1px solid silver;  
+	border: 1px solid #CFCFCF;  
 	margin: 0;
 }		
 
@@ -105,7 +102,7 @@ h3 span
 hr
 {
 	border: none;
-	border-bottom: 2px solid #feca07;
+	border-bottom: 2px solid #FECA07;
 	width: 99%
 }
 
@@ -116,7 +113,7 @@ img
   	margin-left: 23%;
   	margin-top: 11%;
   	border-radius: 50%;
-  	border: solid #dfb312 2px;
+  	border: solid #DFB312 2px;
 }  
 
 .coordonnées p
@@ -206,7 +203,7 @@ li svg
 	display: inline-block;
 	position: relative;
 	margin-left: 2.5%;
-	color: black;
+	color: #000000;
 }
 
 .recommandation
