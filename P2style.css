@@ -127,7 +127,7 @@ img
 	padding-bottom: 45%;
 }
 
-.loisirs svg
+footer svg
 {
 	color: #404040;
 	font-size: 32px;
@@ -187,7 +187,7 @@ li svg
 
 .lastone svg
 {
-	margin: 4%;
+	margin: 3%;
 }	
 
 .format
@@ -198,7 +198,7 @@ li svg
 .oldestones svg
 {
 	font-size: 7px;
-	margin: 4%;
+	margin: 3%;
 }	
 
 .recommandation
