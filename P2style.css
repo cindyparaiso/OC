@@ -133,7 +133,8 @@ img
 	font-size: 32px;
 	font-weight: lighter;
 	margin: 2%;
-	padding: 9px;
+	padding: 4%;
+	width: 47%;
 	border-radius: 50%;
 	border: 2px solid #404040;
  }
@@ -153,7 +154,7 @@ img
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
-	margin: 4px; 
+	margin: 9px; 
  } 
 
 .Curriculum
@@ -184,9 +185,8 @@ li svg
 	width: 60%;
 }
 
-.latest svg
+.lastone svg
 {
-	font-size: 2px;
 	margin: 2px;
 }	
 
@@ -195,9 +195,9 @@ li svg
 	width: 60%;
 }
 
-.format svg
+.oldestones svg
 {
-	font-size: 0.1px;
+	font-size: 1.9px;
 	margin: 2px;
 }	
 
@@ -229,7 +229,7 @@ li svg
  	  	
  	.Cindyparaiso
 	{
-		font-size: 2.7em;
+		font-size: 2em;
 		margin: 0;
 		width: 97%;
 	}
