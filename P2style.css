@@ -153,7 +153,7 @@ img
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
- 	font-size: 34px;
+	margin: 4px; 
  } 
 
 .Curriculum
@@ -186,7 +186,8 @@ li svg
 
 .latest svg
 {
-	font-size: 4px
+	font-size: 2px;
+	margin: 2px;
 }	
 
 .format
@@ -196,14 +197,12 @@ li svg
 
 .format svg
 {
-	font-size: 0.1em;
+	font-size: 0.1px;
+	margin: 2px;
 }	
 
 .formation, .experience, .recommandations
 {
-	display: inline-block;
-	position: relative;
-	margin-left: 4.5%;
 	color: #000000;
 }
 
