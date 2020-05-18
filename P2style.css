@@ -151,7 +151,7 @@ footer svg
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
-	margin: 9px; 
+	margin-right: 9px; 
  } 
 
 .Curriculum
@@ -184,7 +184,7 @@ li svg
 
 .lastone svg
 {
-	margin: 3%;
+	margin-right: 3%;
 }	
 
 .format
@@ -195,7 +195,7 @@ li svg
 .oldestones svg
 {
 	font-size: 7px;
-	margin: 3%;
+	margin-right: 3%;
 }	
 
 .recommandation
