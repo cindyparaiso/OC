@@ -131,14 +131,18 @@ img
 footer svg
 {
 	color: #404040;
-	font-size: 45px;
 	font-weight: lighter;
 	margin: 1%;
-	padding: 3%;
-	height: 50%;	
-	border-radius: 60%;
+	padding: 3%;	
+	border-radius: 50%;
 	border: 2px solid #404040;
  }
+
+footer
+{
+	height: 50%;
+	font-size: 2em;
+}	
 
 .Curriculum h2
 {
