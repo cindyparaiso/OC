@@ -134,9 +134,9 @@ footer svg
 	font-size: 15px;
 	font-weight: lighter;
 	margin: 1%;
-	padding: 2%;
-	width: 54px;
-	height: 54px;	
+	padding: 3%;
+	width: 50%;
+	height: 50%;	
 	border-radius: 60%;
 	border: 2px solid #404040;
  }
@@ -151,7 +151,7 @@ footer svg
 .Curriculum h2 svg
  { 
  	color: #FECA07; 
-	margin-right: 7%; 
+	margin-right: 5%; 
  } 
 
 .Curriculum
