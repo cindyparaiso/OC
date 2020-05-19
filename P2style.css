@@ -76,7 +76,7 @@ h3 span
 	background-color: #404040;
 	color: #FECA07;
 	text-align: center;
-	font-size: 29px;
+	font-size: 1.6em;
 }	
 
 .Contact
@@ -98,6 +98,7 @@ h3 span
 	flex-direction: row;
 	justify-content: space-around; 
 	font-size: 2em;
+	padding-bottom: 2%;
 }
 
 hr
@@ -135,8 +136,6 @@ footer svg
 	font-weight: lighter;
 	margin: 1%;
 	padding: 3%;	
-	width: 32px;
-	height: 32px;
 	border-radius: 50%;
 	border: 2px solid #404040;
  }
@@ -144,7 +143,7 @@ footer svg
 .Curriculum h2
 {
 	text-align: left;
-	font-size: 2em;
+	font-size: 1.9em;
 	margin-bottom: 0;
 }	
 
