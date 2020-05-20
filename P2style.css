@@ -14,7 +14,7 @@ body
 {
 	display: flex;
 	flex-flow: row wrap;
-	font-family: "nimbus_sans_lregular";
+	font-family: "nimbus_sans_lregular", Arial;
 	margin: 8px;
 	border: 1px solid #CFCFCF;  
 	margin: 0;
