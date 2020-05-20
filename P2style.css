@@ -99,6 +99,17 @@ h3 span
 	font-size: 2em;
 }
 
+footer svg
+{
+	color: #404040;
+	font-weight: lighter;
+	margin: 1%;
+	padding: 3%;	
+	border-radius: 50%;
+	border: 2px solid #404040;
+}
+
+
 hr
 {
 	border: none;
@@ -116,7 +127,7 @@ img
   	border: solid #DFB312 2px;
 }  
 
-.coordonnées p
+.coordonnees p
 {
 	font-weight: bolder;
 }
@@ -128,16 +139,6 @@ img
 	margin-bottom: 5%;
 
 }
-
-footer svg
-{
-	color: #404040;
-	font-weight: lighter;
-	margin: 1%;
-	padding: 3%;	
-	border-radius: 50%;
-	border: 2px solid #404040;
- }
 
 .Curriculum h2
 {
@@ -257,7 +258,7 @@ li svg
 		margin-right: 2.5%;
 	}	
 
-	.coordonnées, .apropos, .loisirs 
+	.coordonnees, .apropos, .loisirs 
 	{
 		width: 100%;
 		margin: 0;
