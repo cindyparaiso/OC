@@ -21,7 +21,7 @@ body
 }		
 
 
-p, li
+p, li, ul h2
 {
 	font-size: 0.96em;
 	color: #404040;
@@ -61,14 +61,14 @@ h1
 	margin-bottom: 0;
 }
 
-h2
+header h2
 {
 	font-size: 1.8em;
 	color: #404040;
 	margin-top: 0;
 }
 
-h2 span
+header h2 span
 {
 	text-decoration: underline;
 	text-underline-position: under;
